@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "心絵",
+  "base_artist": "ロードオブメジャー",
+  "createdAt": "2025-12-02T13:46:58.576330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "TRIPLANE",
+      "has_synced": true,
+      "path": "select/01_心絵_TRIPLANE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": true,
+      "path": "select/02_心絵_ROAD_OF_MAJOR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "ロードオブメジャー",
+      "has_synced": true,
+      "path": "select/03_心絵_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心絵 feat.えみい(テーマパークガール)",
+      "artist": "Kobasolo feat. えみい(テーマパークガール)",
+      "has_synced": true,
+      "path": "select/04_心絵_feat.えみい(テーマパークガール)_Kobasolo_feat._えみい(テーマパークガール).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "Road Of Major",
+      "has_synced": true,
+      "path": "select/05_心絵_Road_Of_Major.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "Road Of Major",
+      "has_synced": true,
+      "path": "select/06_心絵_Road_Of_Major.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "『メジャー』::心絵",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/07_『メジャー』_心絵_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心絵 feat.えみい(テーマパークガール)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/08_心絵_feat.えみい(テーマパークガール)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "ロードオブメジャー",
+      "has_synced": true,
+      "path": "select/09_心絵_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心絵",
+      "artist": "ロードオブメジャー",
+      "has_synced": true,
+      "path": "select/10_心絵_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心絵 - SUPER OMOTENASHI BEATS vol.1 ver",
+      "artist": "Road Of Major",
+      "has_synced": true,
+      "path": "select/11_心絵_-_SUPER_OMOTENASHI_BEATS_vol.1_ver_Road_Of_Major.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心絵 (TV Ver.)",
+      "artist": "TRIPLANE",
+      "has_synced": true,
+      "path": "select/12_心絵_(TV_Ver.)_TRIPLANE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心絵",
+      "artist": "ロードオブメジャー",
+      "has_synced": false,
+      "path": "select/pl_01_心絵_ロードオブメジャー.txt"
+    }
+  ]
+}
